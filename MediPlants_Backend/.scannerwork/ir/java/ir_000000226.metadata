@@ -1,0 +1,5 @@
+com.mediplants.app.controllers.PlantController#getAllPlants()Ljava/util/List;
+false
+284ead25aa197c1e7d725285e55b5a77
+==
+getAllPlants com.mediplants.app.services.PlantService#getAllPlants()Ljava/util/List;

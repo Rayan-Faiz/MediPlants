@@ -1,0 +1,15 @@
+
+?com.mediplants.app.entities.User#getUpdatedAt()Ljava/util/Date;z
+pC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/entities/User.javar r("1*¬
+1s s(y
+w
+s s(
+%0java.util.Date"__id*O
+
+__unknown_file (3*1"
+ com.mediplants.app.entities.User"
+	updatedAt""
+s s(
+
+%0java.util.DateB$"
+ com.mediplants.app.entities.UserH

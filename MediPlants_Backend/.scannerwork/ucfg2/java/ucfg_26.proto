@@ -1,0 +1,16 @@
+
+@com.mediplants.app.entities.User#getFullName()Ljava/lang/String;z
+pC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/entities/User.javaR R("1*¯
+1S S(z
+x
+S S(
+%0java.lang.String"__id*N
+
+__unknown_file (2*0"
+ com.mediplants.app.entities.User"
+
+fullName"$
+S S(
+
+%0java.lang.StringB$"
+ com.mediplants.app.entities.UserH

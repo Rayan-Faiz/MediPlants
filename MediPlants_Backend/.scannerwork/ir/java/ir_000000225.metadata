@@ -1,0 +1,5 @@
+com.mediplants.app.controllers.PlantController#getPlantById(Ljava/lang/Long;)Lcom/mediplants/app/dtos/PlantDto;
+false
+40de0a87eb1948b041d37d273717bfb9
+==
+getPlantById com.mediplants.app.services.PlantService#getPlantById(Ljava/lang/Long;)Lcom/mediplants/app/dtos/PlantDto;

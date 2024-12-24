@@ -1,0 +1,5 @@
+com.mediplants.app.controllers.PlantController#savePlant(Lcom/mediplants/app/dtos/PlantDto;)V
+false
+caa8641ba008ef054c1a09765d8221a3
+==
+savePlant com.mediplants.app.services.PlantService#savePlant(Lcom/mediplants/app/dtos/PlantDto;)V

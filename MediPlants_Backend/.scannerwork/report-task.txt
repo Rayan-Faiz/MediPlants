@@ -1,0 +1,7 @@
+organization=medplant
+projectKey=medplant_medplant
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58741
+dashboardUrl=https://sonarcloud.io/dashboard?id=medplant_medplant
+ceTaskId=AZPwVDCKm2pIx8C1yNt1
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZPwVDCKm2pIx8C1yNt1

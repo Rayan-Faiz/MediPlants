@@ -1,0 +1,13 @@
+com.mediplants.app.services.AuthenticationService#signup(Lcom/mediplants/app/dtos/RegisterUserDto;)Lcom/mediplants/app/entities/User;
+false
+83ca4272a995a3bf44c9dbec7a79d2e8
+com.mediplants.app.entities.User#<init>()V
+com.mediplants.app.entities.User#instance-init#
+==
+!unknownMethod! !unknownMethod!
+getEmail com.mediplants.app.dtos.RegisterUserDto#getEmail()Ljava/lang/String;
+getFullName com.mediplants.app.dtos.RegisterUserDto#getFullName()Ljava/lang/String;
+getPassword com.mediplants.app.dtos.RegisterUserDto#getPassword()Ljava/lang/String;
+setEmail com.mediplants.app.entities.User#setEmail(Ljava/lang/String;)Lcom/mediplants/app/entities/User;
+setFullName com.mediplants.app.entities.User#setFullName(Ljava/lang/String;)Lcom/mediplants/app/entities/User;
+setPassword com.mediplants.app.entities.User#setPassword(Ljava/lang/String;)Lcom/mediplants/app/entities/User;

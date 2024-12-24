@@ -1,0 +1,6 @@
+com.mediplants.app.controllers.AuthenticationController#register(Lcom/mediplants/app/dtos/RegisterUserDto;)LResponseEntity;
+false
+ebd3cfd40ef9fc4617d27d43499f7570
+==
+!unknownMethod! !unknownMethod!
+signup com.mediplants.app.services.AuthenticationService#signup(Lcom/mediplants/app/dtos/RegisterUserDto;)Lcom/mediplants/app/entities/User;

@@ -1,0 +1,3 @@
+com.mediplants.app.controllers.AuthenticationController#<init>(Lcom/mediplants/app/services/JwtService;Lcom/mediplants/app/services/AuthenticationService;)V
+false
+37b773e5ffbca59af6713e54e4b5a799

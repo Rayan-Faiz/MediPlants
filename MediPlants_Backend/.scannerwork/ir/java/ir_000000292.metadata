@@ -1,0 +1,7 @@
+com.mediplants.app.exceptions.GlobalExceptionHandler#handleSecurityException(Ljava/lang/Exception;)LProblemDetail;
+false
+96889d7458ce7a0a670f420c285e7c8f
+==
+!unknownMethod! !unknownMethod!
+getMessage java.lang.Throwable#getMessage()Ljava/lang/String;
+printStackTrace java.lang.Throwable#printStackTrace()V
