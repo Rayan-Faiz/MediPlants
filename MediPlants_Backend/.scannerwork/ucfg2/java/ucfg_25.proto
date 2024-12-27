@@ -1,0 +1,17 @@
+
+]com.mediplants.app.entities.User#setId(Ljava/lang/Integer;)Lcom/mediplants/app/entities/User;z
+pC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/entities/User.javaM M("1*¶
+1N N(u
+s
+N N(*"
+ com.mediplants.app.entities.User"
+id"__id*5
+
+__unknown_file (
+
+idjava.lang.Integer"0
+O O($"
+ com.mediplants.app.entities.User:#
+M M( 
+idjava.lang.IntegerB$"
+ com.mediplants.app.entities.UserH

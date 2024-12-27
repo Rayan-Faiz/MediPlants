@@ -1,0 +1,63 @@
+
+ocom.mediplants.app.controllers.PlantController#getPlantById(Ljava/lang/Long;)Lcom/mediplants/app/dtos/PlantDto;ˆ
+~C:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/controllers/PlantController.java ( "startingBlock*›
+startingBlock  (7~
+|
+ (
+%2"
+__annotate**
+
+__unknown_file (
+
+GetMapping*2
+
+__unknown_file (
+
+idjava.lang.Long€
+~
+! (.
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*2
+
+__unknown_file (
+
+idjava.lang.Longx
+v
+4 (6
+idjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*°
+1 (¥
+¢
+ (.
+%0(com.mediplants.app.services.PlantService"__id*`
+
+__unknown_file (D*B0
+.com.mediplants.app.controllers.PlantController"
+plantServiceÂ¿
+ (,&
+%1 com.mediplants.app.dtos.PlantDto"icom.mediplants.app.services.PlantService#getPlantById(Ljava/lang/Long;)Lcom/mediplants/app/dtos/PlantDto;*L
+
+__unknown_file (0
+.
+%0(com.mediplants.app.services.PlantService*2
+
+__unknown_file (
+
+idjava.lang.Long2getPlantById(Ljava/lang/Long;)"4
+ (-(
+&
+%1 com.mediplants.app.dtos.PlantDto: 
+! (6
+idjava.lang.LongB20
+.com.mediplants.app.controllers.PlantControllerH

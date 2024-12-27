@@ -1,0 +1,18 @@
+
+bcom.mediplants.app.entities.User#setFullName(Ljava/lang/String;)Lcom/mediplants/app/entities/User;z
+pC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/entities/User.javaV V("1*Â
+1W W( €
+~
+W W( 0"
+ com.mediplants.app.entities.User"
+
+fullName"__id*:
+
+__unknown_file (
+
+fullNamejava.lang.String"0
+X X($"
+ com.mediplants.app.entities.User:(
+V V(+
+fullNamejava.lang.StringB$"
+ com.mediplants.app.entities.UserH

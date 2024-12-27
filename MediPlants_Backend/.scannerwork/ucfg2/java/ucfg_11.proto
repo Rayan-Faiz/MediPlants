@@ -1,0 +1,15 @@
+
+Dcom.mediplants.app.dtos.RegisterUserDto#getEmail()Ljava/lang/String;Å
+wC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/dtos/RegisterUserDto.java ("1*≥
+1	 	(~
+|
+	 	(
+%0java.lang.String"__id*R
+
+__unknown_file (6*4)
+'com.mediplants.app.dtos.RegisterUserDto"
+email"$
+	 	(
+
+%0java.lang.StringB+)
+'com.mediplants.app.dtos.RegisterUserDtoH

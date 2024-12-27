@@ -1,0 +1,31 @@
+
+Bcom.mediplants.app.services.UserService#allUsers()Ljava/util/List;Å
+wC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/services/UserService.java ("1*Ì
+1 (,<:
+ (*
+%0java.util.ArrayList"java.util.ArrayListj
+h
+ (,
+%1"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%0java.util.ArrayListd
+b
+ (-
+usersjava.util.List"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayList¶
+£
+ (4
+%2.com.mediplants.app.repositories.UserRepository"__id*[
+
+__unknown_file (?*=)
+'com.mediplants.app.services.UserService"
+userRepository"%
+ (
+
+usersjava.util.ListB+)
+'com.mediplants.app.services.UserServiceH

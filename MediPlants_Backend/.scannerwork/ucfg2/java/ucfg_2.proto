@@ -1,0 +1,21 @@
+
+Mcom.mediplants.app.controllers.PlantController#getAllPlants()Ljava/util/List;ˆ
+~C:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/controllers/PlantController.java (&"1*¦
+1 (¥
+¢
+ (.
+%0(com.mediplants.app.services.PlantService"__id*`
+
+__unknown_file (D*B0
+.com.mediplants.app.controllers.PlantController"
+plantServiceÊÇ
+ (*
+%1java.util.List"Gcom.mediplants.app.services.PlantService#getAllPlants()Ljava/util/List;*L
+
+__unknown_file (0
+.
+%0(com.mediplants.app.services.PlantService2getAllPlants()""
+ (+
+
+%1java.util.ListB20
+.com.mediplants.app.controllers.PlantControllerH

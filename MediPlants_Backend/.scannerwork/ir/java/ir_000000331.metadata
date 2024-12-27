@@ -1,0 +1,12 @@
+com.mediplants.app.controllers.AuthenticationController#authenticate(Lcom/mediplants/app/dtos/LoginUserDto;)LResponseEntity;
+false
+fc41fea81505e2399c9b4b9cc133fa09
+com.mediplants.app.responses.LoginResponse#<init>()V
+com.mediplants.app.responses.LoginResponse#instance-init#
+==
+!unknownMethod! !unknownMethod!
+authenticate com.mediplants.app.services.AuthenticationService#authenticate(Lcom/mediplants/app/dtos/LoginUserDto;)Lcom/mediplants/app/entities/User;
+generateToken com.mediplants.app.services.JwtService#generateToken(LUserDetails;)Ljava/lang/String;
+getExpirationTime com.mediplants.app.services.JwtService#getExpirationTime()J
+setExpiresIn com.mediplants.app.responses.LoginResponse#setExpiresIn(J)Lcom/mediplants/app/responses/LoginResponse;
+setToken com.mediplants.app.responses.LoginResponse#setToken(Ljava/lang/String;)Lcom/mediplants/app/responses/LoginResponse;

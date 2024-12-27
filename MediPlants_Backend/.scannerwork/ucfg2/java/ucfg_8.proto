@@ -1,0 +1,16 @@
+
+Dcom.mediplants.app.dtos.LoginUserDto#getPassword()Ljava/lang/String;~
+tC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/dtos/LoginUserDto.java ("1*³
+1 (~
+|
+ (
+%0java.lang.String"__id*R
+
+__unknown_file (6*4&
+$com.mediplants.app.dtos.LoginUserDto"
+
+password"$
+ (
+
+%0java.lang.StringB(&
+$com.mediplants.app.dtos.LoginUserDtoH

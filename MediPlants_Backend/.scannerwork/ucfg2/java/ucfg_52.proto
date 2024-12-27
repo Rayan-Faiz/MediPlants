@@ -1,0 +1,63 @@
+
+Gcom.mediplants.app.responses.LoginResponse#toString()Ljava/lang/String;Ñ
+zC:/Users/l14/eclipse-workspace/MediPlants/MediPlants_Backend/src/main/java/com/mediplants/app/responses/LoginResponse.java ("1*Õ
+1 (g
+e
+ (
+%0java.lang.String"__concat*
+ (
+LoginResponse{*
+ (	
+token='Å
+
+ (!
+%1java.lang.String"__id*U
+
+__unknown_file (9*7,
+*com.mediplants.app.responses.LoginResponse"
+tokenz
+x
+ (!
+%2java.lang.String"__concat*$
+ (
+
+%0java.lang.String*$
+ (!
+
+%1java.lang.Stringh
+f
+ ((
+%3java.lang.String"__concat*$
+ (!
+
+%2java.lang.String*
+$ ((
+\'r
+p
+ (
+%4java.lang.String"__concat*$
+ ((
+
+%3java.lang.String*
+ (
+, expiresIn=h
+f
+ (*
+%5java.lang.String"__concat*$
+ (
+
+%4java.lang.String*
+! (*
+""g
+e
+ (
+%6java.lang.String"__concat*$
+ (*
+
+%5java.lang.String*
+ (
+}"$
+ (
+
+%6java.lang.StringB.,
+*com.mediplants.app.responses.LoginResponseH

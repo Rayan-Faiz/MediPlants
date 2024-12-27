@@ -1,0 +1,4 @@
+com.mediplants.app.entities.User#getAuthorities()Ljava/util/Collection;
+false
+70132e8ccecefd4a14e2911fd50ea0ee
+java.util.List#of()Ljava/util/List;

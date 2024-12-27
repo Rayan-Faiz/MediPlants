@@ -1,0 +1,6 @@
+com.mediplants.app.controllers.UserController#allUsers()LResponseEntity;
+false
+307a01ea98d8425d6c41c77bc1275041
+==
+!unknownMethod! !unknownMethod!
+allUsers com.mediplants.app.services.UserService#allUsers()Ljava/util/List;

@@ -1,0 +1,9 @@
+com.mediplants.app.services.AuthenticationService#authenticate(Lcom/mediplants/app/dtos/LoginUserDto;)Lcom/mediplants/app/entities/User;
+false
+3ebc185f4fc5eb236b62f62a8a982d0f
+java.util.Optional#orElseThrow()Ljava/lang/Object;
+==
+!unknownMethod! !unknownMethod!
+findByEmail com.mediplants.app.repositories.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;
+getEmail com.mediplants.app.dtos.LoginUserDto#getEmail()Ljava/lang/String;
+getPassword com.mediplants.app.dtos.LoginUserDto#getPassword()Ljava/lang/String;

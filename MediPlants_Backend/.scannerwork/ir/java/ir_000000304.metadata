@@ -1,0 +1,9 @@
+com.mediplants.app.services.JwtService#buildToken(Ljava/util/Map;LUserDetails;J)Ljava/lang/String;
+false
+e5981cb241acb6801f926a26c4886c7a
+com.mediplants.app.services.JwtService#getSignInKey()Ljava/security/Key;
+java.lang.System#currentTimeMillis()J
+java.util.Date#<init>(J)V
+java.util.Date#instance-init#
+==
+!unknownMethod! !unknownMethod!
